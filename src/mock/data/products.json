@@ -1,0 +1,162 @@
+[
+  {
+    "id": "prod_1",
+    "handle": "pipeline-silk-blouse",
+    "title": "Pipeline Minimalist Silk Blouse",
+    "description": "Crafted from 100% Mulberry silk, this minimalist blouse offers an effortless drape and timeless aesthetic suitable for both formal and casual settings.",
+    "vendor": "MONTS Studio",
+    "category": "Tops & Blouses",
+    "price": 19.99,
+    "compareAtPrice": 29.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800&q=80"
+    ],
+    "tags": ["silk", "blouse", "featured", "pipeline", "best-seller"],
+    "options": [
+      { "name": "Size", "values": ["XS", "S", "M", "L", "XL"] },
+      { "name": "Color", "values": ["Champagne", "Noir", "Ivory"] }
+    ],
+    "variants": [
+      { "id": "var_1_1", "title": "XS / Champagne", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "XS" }, { "name": "Color", "value": "Champagne" }] },
+      { "id": "var_1_2", "title": "S / Champagne", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "S" }, { "name": "Color", "value": "Champagne" }] },
+      { "id": "var_1_3", "title": "M / Noir", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "M" }, { "name": "Color", "value": "Noir" }] }
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewCount": 42
+  },
+  {
+    "id": "prod_2",
+    "handle": "tailored-cashmere-overcoat",
+    "title": "Tailored Cashmere Blend Overcoat",
+    "description": "Double-breasted tailored coat featuring structured shoulders, horn buttons, and a rich wool-cashmere blend construction.",
+    "vendor": "MONTS Outerwear",
+    "category": "Outerwear & Coats",
+    "price": 19.99,
+    "compareAtPrice": 39.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=80",
+      "https://images.unsplash.com/photo-1544441893-675973e31985?w=800&q=80"
+    ],
+    "tags": ["outerwear", "coat", "cashmere", "featured"],
+    "options": [
+      { "name": "Size", "values": ["S", "M", "L"] },
+      { "name": "Color", "values": ["Camel", "Obsidian"] }
+    ],
+    "variants": [
+      { "id": "var_2_1", "title": "S / Camel", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "S" }, { "name": "Color", "value": "Camel" }] }
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "rating": 4.8,
+    "reviewCount": 18
+  },
+  {
+    "id": "prod_3",
+    "handle": "sculptural-leather-tote",
+    "title": "Sculptural Calfskin Leather Tote",
+    "description": "Handcrafted calfskin leather tote bag with architectural lines, suede interior lining, and magnetic clasp closure.",
+    "vendor": "MONTS Leatherworks",
+    "category": "Luxury Accessories",
+    "price": 19.99,
+    "compareAtPrice": 24.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80"
+    ],
+    "tags": ["accessories", "bag", "leather", "featured", "best-seller"],
+    "options": [
+      { "name": "Color", "values": ["Espresso", "Cognac", "Black"] }
+    ],
+    "variants": [
+      { "id": "var_3_1", "title": "Espresso", "price": 19.99, "available": true, "options": [{ "name": "Color", "value": "Espresso" }] }
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 5.0,
+    "reviewCount": 56
+  },
+  {
+    "id": "prod_4",
+    "handle": "pleated-midi-shirt-dress",
+    "title": "Pleated Poplin Midi Shirt Dress",
+    "description": "Architectural shirt dress with delicate accordion pleats, hidden mother-of-pearl buttons, and a self-tie belt.",
+    "vendor": "MONTS Studio",
+    "category": "Dresses & Skirts",
+    "price": 19.99,
+    "compareAtPrice": 29.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&q=80"
+    ],
+    "tags": ["dress", "pleated", "ready-to-wear"],
+    "options": [
+      { "name": "Size", "values": ["XS", "S", "M", "L"] }
+    ],
+    "variants": [
+      { "id": "var_4_1", "title": "S", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "S" }] }
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewCount": 12
+  },
+  {
+    "id": "prod_5",
+    "handle": "draped-asymmetric-top",
+    "title": "Draped Asymmetric Satin Top",
+    "description": "Modern draped satin top with single shoulder silhouette and concealed side zipper.",
+    "vendor": "MONTS Studio",
+    "category": "Tops & Blouses",
+    "price": 19.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80"
+    ],
+    "tags": ["tops", "satin", "ready-to-wear"],
+    "options": [{ "name": "Size", "values": ["S", "M", "L"] }],
+    "variants": [{ "id": "var_5_1", "title": "S", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "S" }] }],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewCount": 31
+  },
+  {
+    "id": "prod_6",
+    "handle": "high-waisted-tailored-trousers",
+    "title": "High-Waisted Wool Tailored Trousers",
+    "description": "Structured high-rise trousers cut from Italian virgin wool featuring front pleats and wide leg profile.",
+    "vendor": "MONTS Studio",
+    "category": "Bottoms",
+    "price": 19.99,
+    "currency": "INR",
+    "featuredImage": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80"
+    ],
+    "tags": ["trousers", "wool", "tailored"],
+    "options": [{ "name": "Size", "values": ["34", "36", "38", "40"] }],
+    "variants": [{ "id": "var_6_1", "title": "36", "price": 19.99, "available": true, "options": [{ "name": "Size", "value": "36" }] }],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.6,
+    "reviewCount": 19
+  }
+]

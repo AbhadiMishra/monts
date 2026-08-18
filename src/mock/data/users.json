@@ -1,0 +1,46 @@
+[
+  {
+    "id": "usr_admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "firstName": "Store",
+    "lastName": "Administrator",
+    "role": "admin",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
+    "phone": "+1 (555) 987-6543",
+    "ordersCount": 14,
+    "addresses": [
+      {
+        "id": "addr_1",
+        "street": "742 Evergreen Terrace",
+        "city": "Springfield",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "United States",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "usr_customer",
+    "email": "customer@example.com",
+    "password": "customer123",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "role": "customer",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "phone": "+1 (555) 123-4567",
+    "ordersCount": 3,
+    "addresses": [
+      {
+        "id": "addr_2",
+        "street": "100 Fifth Avenue, Suite 400",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10011",
+        "country": "United States",
+        "isDefault": true
+      }
+    ]
+  }
+]

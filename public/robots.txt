@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /account
+Disallow: /cart
+
+Sitemap: http://localhost:5173/sitemap.xml

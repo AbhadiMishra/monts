@@ -1,0 +1,47 @@
+[
+  {
+    "id": "coll_1",
+    "handle": "ready-to-wear",
+    "title": "Ready-to-Wear Collection",
+    "description": "Sophisticated garments crafted with precision, designed for effortlessly elevated everyday styling.",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&q=80",
+    "productCount": 12,
+    "featured": true
+  },
+  {
+    "id": "coll_2",
+    "handle": "featured",
+    "title": "Featured Collections",
+    "description": "Our curated selection of iconic signature silhouettes and seasonal highlights.",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&q=80",
+    "productCount": 8,
+    "featured": true
+  },
+  {
+    "id": "coll_3",
+    "handle": "tops",
+    "title": "Tops & Blouses",
+    "description": "Silk shirts, fluid tops, and draped evening blouses.",
+    "image": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?w=800&q=80",
+    "productCount": 6,
+    "featured": false
+  },
+  {
+    "id": "coll_4",
+    "handle": "outerwear",
+    "title": "Outerwear & Coats",
+    "description": "Wool trench coats, structured blazers, and cashmere capes.",
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=80",
+    "productCount": 5,
+    "featured": false
+  },
+  {
+    "id": "coll_5",
+    "handle": "accessories",
+    "title": "Luxury Accessories",
+    "description": "Leather totes, sculptural belts, and artisanal silk scarves.",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80",
+    "productCount": 9,
+    "featured": true
+  }
+]
